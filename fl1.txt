@@ -5,3 +5,4 @@ line 4
 new line appended to the file from within the branch
 adding conflict line from branch
 adding line from master to create conflict
+adding the line to remove by deleting commit
